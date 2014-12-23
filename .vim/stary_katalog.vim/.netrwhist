@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/kgrobeln/repos/trunk/C_Test'
+let g:netrw_dirhist_2='/home/kgrobeln/repos/trunk/C_Test/cplane_k3'
+let g:netrw_dirhist_3='/home/kgrobeln/repos/trunk/C_Test/cplane_k3/src'
+let g:netrw_dirhist_4='/home/kgrobeln/repos/trunk/C_Test/cplane_k3/src/TestTargets'
+let g:netrw_dirhist_5='/home/kgrobeln/repos/trunk/C_Test/cplane_k3/src/TestTargets/PIT'
+let g:netrw_dirhist_6='/home/kgrobeln/repos/trunk/C_Test/cplane_k3/src/TestTargets/PIT/functions'
+let g:netrw_dirhist_7='/home/kgrobeln/repos/chaos0x8-other'
+let g:netrw_dirhist_8='/home/kgrobeln/repos/chaos0x8-other/vim/plugin'
+let g:netrw_dirhist_9='/home/kgrobeln/bin/Include'
